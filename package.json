@@ -1,5 +1,6 @@
 {
   "name": "linked-list-f",
+  "git": "https://github.com/levi2ki/linked-list-f.git",
   "version": "0.0.1",
   "description": "linked list with FP helpers",
   "main": "index.js",
