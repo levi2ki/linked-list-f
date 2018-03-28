@@ -1,0 +1,11 @@
+{
+  "name": "linked-list-f",
+  "version": "0.0.1",
+  "description": "linked list with FP helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/levi2ki",
+  "license": "UNLICENSED"
+}
