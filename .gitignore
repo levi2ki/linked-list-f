@@ -2,3 +2,6 @@
 .idea
 
 *.log
+
+/node_modules
+/coverage
